@@ -1,0 +1,81 @@
+body{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: absolute;
+    background-attachment: fixed;
+	background-image: url("patrick.jpg");
+}
+
+#login{
+	border: solid gray 1px;
+	width: 40%;
+	border-radius: 10px;
+	margin: 80px auto;
+	background: black;
+	padding: 50px; 
+}
+#links{
+	border: solid gray 1px;
+	width: 75%;
+	border-radius: 60px;
+	margin: 50px auto;
+	background: black;
+
+}
+#login2{
+	border: solid gray 1px;
+	width: 100%;
+	border-radius: 80px;
+	margin: 100px auto;
+}
+#login3{
+	border: solid gray 1px;
+	width: 50%;
+	border-radius: 80px;
+	margin: 100px auto;
+}
+#btn{
+	color: #fff;
+	background: #337ab7;
+	padding: 5px;
+	margin-left: 130px;
+}
+h1{
+  border-bottom: solid #334B66 4px;
+  font-size: 160%;}
+table{
+  padding: 10px;
+  background: rgb(54, 25, 25); 
+  background: rgba(54, 25, 25, .5);
+  
+  }
+td{	
+  text-align: left;
+  color: white;
+  padding: 10px;
+  border: 2px solid gray;
+  text-align: left;
+  border-style: solid;
+}
+th{
+  text-align: left;
+  padding: 10px;
+  color: white;
+  text-align: left;
+  }
+tr{
+  color: white;
+}
+
+  
+.footer{
+  border-top: solid #334B66 4px;
+  font-size: 90%;}
+
+.company{
+  padding-top: 5px;
+  float: right;}
+  
+.date{
+  padding-top: 5px;
+  float: left;}
